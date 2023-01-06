@@ -1,12 +1,15 @@
 ### Hi there 👋 I am Olya.
 A former real estate lawyer, now a passionate and results-driven Frontend Developer. 
 
-I have around two years of web development experience with HTML5, CSS3, JavaScript (ES6), React, and Vue.js. I also have some backend working experience with Node.js, Express, MongoDB, and realtional databases. But my passion is building beautiful user-centric responsive interfaces!
-I love learning human and programming languages, my motto is "No day without learning!" 
+I have around two years of web development experience with HTML5, CSS3, JavaScript (ES6), React, and Vue.js. 
+I also have some backend working experience with Node.js, Express, MongoDB, and realtional databases. 
+But my passion is building beautiful user-centric responsive interfaces.
+My motto is "No day without learning!" 
 
 Some facts about me:
 
 🔭 I’m currently working on my portfolio transitioning from a software engineer into a frontend developer.
+
 🌱 I’m also learning UI/UX to be a better developer, and I am a member of the Interaction Design Foundation.
 
 ⚡ Fun facts abot me: 
