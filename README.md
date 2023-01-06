@@ -29,7 +29,7 @@ Skills and technologies:
 Some of my Frontend projects:
 
 1. Landing page of a programming school (HTML5, Bootstrap4, responsive design) - https://solgaezhova.github.io/pure_bootstrap_website/.
-2. Website of a swimming organisation (semantic HTML5, CSS3, responsive design) - https://solgaezhova.github.io/css_project_flex/index.html.
+2. Website of a swimming organisation (semantic HTML5, CSS3, responsive design) - https://solgaezhova.github.io/css_project_flex/.
 3. Much more is coming soon!
 
 📫 Contact me or follow me: https://www.linkedin.com/in/yezhova/.
