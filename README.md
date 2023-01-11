@@ -19,7 +19,7 @@ My motto is <strong>"No day without learning!"</strong>
 - Apart from coding and learning, I love traveling, hiking, biking, and all extreme adventures! 
 
 <strong>Skills and technologies:</strong>
-
+<br>
 
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST" /></code>
