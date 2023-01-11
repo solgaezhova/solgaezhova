@@ -1,24 +1,24 @@
 ### Hi there 👋 I am Olya.
-A former real estate lawyer, now a passionate and results-driven Frontend Developer. 
+A former real estate lawyer, now a <strong>passionate and results-driven Frontend Developer</strong>. 
 
-I have around two years of web development experience with HTML5, CSS3, JavaScript (ES6), React, and Vue.js. 
+I have around two years of web development experience with HTML5, CSS3, Bootstrap, JavaScript (ES6), React, and Vue.js. 
 I also have some backend working experience with Node.js, Express, MongoDB, and realtional databases. 
 But my passion is building beautiful user-centric responsive interfaces.
-My motto is "No day without learning!" 
+My motto is <strong>"No day without learning!"</strong> 
 
-Some facts about me:
+<strong>Some facts about me:</strong>
 
 🔭 I’m currently working on my portfolio transitioning from a software engineer into a frontend developer.
 
-🌱 I’m also learning UI/UX to be a better developer, and I am a member of the Interaction Design Foundation.
+🌱 I’m learning UI/UX to be a better developer, and I am a member of the Interaction Design Foundation.
 
-⚡ Fun facts abot me: 
+<strong>⚡ Fun facts abot me:</strong> 
 - I have lived, studied and worked in 4 countries (Russia, Germany, Israel, USA). You can guess how many languages I speak :) 
 - I worked as a teacher, translator, interpretor, lawyer and software engineer.
 - I have two Master's degrees in Law and Linguistics, and a lot of professional certificates on Web Development. A constant learner :)
 - Apart from coding and learning, I love traveling, hiking, biking, and all extreme adventures! 
 
-Skills and technologies:
+<strong>Skills and technologies:</strong>
 
 
 <div align="center">
@@ -46,12 +46,12 @@ Skills and technologies:
 </div>
 
 
-Some of my Frontend projects I am proud of:
+<strong>Some of my Frontend projects I am proud of</strong>:
 
-1. <em>Website of a swimming organisation</em> - https://solgaezhova.github.io/css_project_flex/.
+1. <em><strong>Website of a swimming organisation</strong></em> - https://solgaezhova.github.io/css_project_flex/.
 Lots of semantic HTML5 + CSS3 + fully responsive design via Flexbox and media queries.
 
-2. <em>Website of a programming school</em> (HTML5, CSS3, Bootstrap4, responsive design, jQuery) - https://solgaezhova.github.io/programming_school_website_bootstrap/. 
+2. <em><strong>Website of a programming school</strong></em> (HTML5, CSS3, Bootstrap4, responsive design, jQuery) - https://solgaezhova.github.io/programming_school_website_bootstrap/. 
 
 - Fully responsive design: mobile-first approach
 - Fully responsive navbar: extends or collapses, depending on the screen size
@@ -61,6 +61,6 @@ Lots of semantic HTML5 + CSS3 + fully responsive design via Flexbox and media qu
 - User-friendly design
 - Forms, cards, buttons, and much more!
 
-3. <em>Much more is coming soon!</em>
+3. <strong>Much more is coming soon!</strong>
 
 📫 Contact me or follow me: https://www.linkedin.com/in/yezhova/.
