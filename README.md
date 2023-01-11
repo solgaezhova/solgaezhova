@@ -44,6 +44,8 @@ My motto is <strong>"No day without learning!"</strong>
 	<code><img height="50" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" alt="Cypress" title="Cypress" /></code>
         <code><img height="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm" /></code>
 </div>
+<br>
+<br>
 
 
 <strong>Some of my Frontend projects I am proud of</strong>:
