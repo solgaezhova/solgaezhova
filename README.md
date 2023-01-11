@@ -46,10 +46,21 @@ Skills and technologies:
 </div>
 
 
-Some of my Frontend projects:
+Some of my Frontend projects I am proud of:
 
-1. Website of a swimming organisation (semantic HTML5, CSS3, responsive design) - https://solgaezhova.github.io/css_project_flex/.
-2. Landing page of a programming school (HTML5, Bootstrap4, responsive design) - https://solgaezhova.github.io/pure_bootstrap_website/.
-3. Much more is coming soon!
+1. <em>Website of a swimming organisation</em> - https://solgaezhova.github.io/css_project_flex/.
+Lots of semantic HTML5 + CSS3 + fully responsive design via Flexbox and media queries.
+
+2. <em>Website of a programming school</em> (HTML5, CSS3, Bootstrap4, responsive design, jQuery) - https://solgaezhova.github.io/programming_school_website_bootstrap/. 
+
+- Fully responsive design: mobile-first approach
+- Fully responsive navbar: extends or collapses, depending on the screen size
+- Several animations via CSS3 features and jQuery
+- Functionality: images filtering option via filter classes and jQuery methods
+- Bootstrap user-controlled carousel
+- User-friendly design
+- Forms, cards, buttons, and much more!
+
+3. <em>Much more is coming soon!</em>
 
 📫 Contact me or follow me: https://www.linkedin.com/in/yezhova/.
