@@ -59,9 +59,7 @@ Lots of semantic HTML5 + CSS3 + fully responsive design via Flexbox and media qu
 - Fully responsive navbar: extends or collapses, depending on the screen size
 - Several animations via CSS3 features and jQuery
 - Functionality: images filtering option via filter classes and jQuery methods
-- Bootstrap user-controlled carousel
-- User-friendly design
-- Forms, cards, buttons, and much more!
+- User-controlled carousel, forms, cards, buttons, and many other user-friendly components!
 
 3. <strong>Much more is coming soon!</strong>
 
