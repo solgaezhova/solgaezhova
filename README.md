@@ -60,7 +60,7 @@ My motto is <strong>"No day without learning!"</strong>
 
 You can find code here - https://github.com/solgaezhova/programming_school_website_bootstrap.
 
-2. <em><strong>Website of a travel agency</strong></em> (HTML5, CSS3, Bootstrap4, responsive design, jQuery) - https://solgaezhova.github.io/travel_agency_website/index.html.
+2. <em><strong>Website of a travel agency</strong></em> (HTML5, CSS3, Bootstrap4, responsive design, jQuery) - https://solgaezhova.github.io/travel_agency_website/.
 
 - Fully responsive design: mobile-first approach
 - Sticky navigation
