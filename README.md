@@ -50,10 +50,7 @@ My motto is <strong>"No day without learning!"</strong>
 
 <strong>Some of my Frontend projects I am proud of</strong>:
 
-1. <em><strong>Website of a swimming organisation</strong></em> - https://solgaezhova.github.io/css_project_flex/.
-Lots of semantic HTML5 + CSS3 + fully responsive design via Flexbox and media queries.
-
-2. <em><strong>Website of a programming school</strong></em> (HTML5, CSS3, Bootstrap4, responsive design, jQuery) - https://solgaezhova.github.io/programming_school_website_bootstrap/. 
+1. <em><strong>Website of a programming school</strong></em> (HTML5, CSS3, Bootstrap4, responsive design, jQuery) - https://solgaezhova.github.io/programming_school_website_bootstrap/. 
 
 - Fully responsive design: mobile-first approach
 - Fully responsive navbar: extends or collapses, depending on the screen size
@@ -61,6 +58,22 @@ Lots of semantic HTML5 + CSS3 + fully responsive design via Flexbox and media qu
 - Functionality: images filtering option via filter classes and jQuery methods
 - User-controlled carousel, forms, cards, buttons, and many other user-friendly components!
 
-3. <strong>Much more is coming soon!</strong>
+You can find code here - https://github.com/solgaezhova/programming_school_website_bootstrap.
+
+2. <em><strong>Website of a travel agency</strong></em> (HTML5, CSS3, Bootstrap4, responsive design, jQuery) - https://solgaezhova.github.io/travel_agency_website/index.html.
+
+- Fully responsive design: mobile-first approach
+- Sticky navigation
+- Animation 
+- Filtering functionality
+- User-controlled image gallery
+- SEO
+
+You can find code here - https://github.com/solgaezhova/travel_agency_website.
+
+3. <em><strong>Website of a swimming organisation</strong></em> - https://solgaezhova.github.io/css_project_flex/.
+Lots of semantic HTML5 + CSS3 + fully responsive design via Flexbox and media queries.
+
+You can find code here - https://github.com/solgaezhova/css_project_flex.
 
 📫 Contact me or follow me: https://www.linkedin.com/in/yezhova/.
