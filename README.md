@@ -1,5 +1,7 @@
-### Hi there 👋 I am Olya.
+### Hi there 👋 <h1>I am Olya</h1>.
 A former real estate lawyer and linguist, now a <strong>passionate and results-driven Frontend Developer</strong>. 
+
+<hr>
 
 I have around two years of web development experience with HTML5, CSS3, JavaScript (ES6), React, and Vue.js. 
 I also have some backend working experience with Node.js, Express, MongoDB, and realtional databases. 
