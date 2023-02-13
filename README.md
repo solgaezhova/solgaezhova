@@ -63,6 +63,7 @@ You can find the code here: https://github.com/solgaezhova/programming_school_we
 You can find code here - https://github.com/solgaezhova/programming_school_website_bootstrap.
 
 2. <em><strong>Website of a travel agency</strong></em> (HTML5, CSS3, Bootstrap4, responsive design, jQuery) - https://solgaezhova.github.io/travel_agency_website/.
+You can find the code here: https://github.com/solgaezhova/travel_agency_website.
 
 - Fully responsive design: mobile-first approach
 - Sticky navigation
