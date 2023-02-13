@@ -52,7 +52,6 @@ My motto is <strong>"No day without learning!"</strong>
 <strong>Some of my Frontend projects I am proud of</strong>:
 
 1. <em><strong>Website of a programming school</strong></em> (HTML5, CSS3, Bootstrap4, responsive design, jQuery) - https://solgaezhova.github.io/programming_school_website_bootstrap/. 
-You can find the code here: https://github.com/solgaezhova/programming_school_website_bootstrap.
 
 - Fully responsive design: mobile-first approach
 - Fully responsive navbar: extends or collapses, depending on the screen size
@@ -63,7 +62,6 @@ You can find the code here: https://github.com/solgaezhova/programming_school_we
 You can find code here - https://github.com/solgaezhova/programming_school_website_bootstrap.
 
 2. <em><strong>Website of a travel agency</strong></em> (HTML5, CSS3, Bootstrap4, responsive design, jQuery) - https://solgaezhova.github.io/travel_agency_website/.
-You can find the code here: https://github.com/solgaezhova/travel_agency_website.
 
 - Fully responsive design: mobile-first approach
 - Sticky navigation
