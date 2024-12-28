@@ -72,10 +72,5 @@ You can find code here - https://github.com/solgaezhova/programming_school_websi
 
 You can find code here - https://github.com/solgaezhova/travel_agency_website.
 
-3. <em><strong>Website of a swimming organisation</strong></em> - https://solgaezhova.github.io/css_project_flex/.
-
-Lots of semantic HTML5 + CSS3 + fully responsive design via Flexbox and media queries.
-
-You can find code here - https://github.com/solgaezhova/css_project_flex.
 
 📫 Contact me or follow me: https://www.linkedin.com/in/yezhova/.
