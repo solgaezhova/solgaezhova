@@ -1,25 +1,52 @@
- <h2> Hi there! I am Olya</h2>
- 
-A former real estate lawyer and linguist, now a <strong>passionate and results-driven Frontend Developer</strong>. 
+<h1 align="center">Hi, I'm Olya 👋</h1>
 
-I have around two years of web development experience with HTML5, CSS3, JavaScript (ES6), React, and Vue.js. 
-I also have some backend working experience with Node.js, Express, MongoDB, and realtional databases. 
-But my passion is building beautiful user-centric responsive interfaces.
-My motto is <strong>"No day without learning!"</strong>
+<p align="center">
+  <strong>Frontend Engineer • UI/UX Design • Healthcare Technology</strong>
+</p>
 
-<strong>Some facts about me:</strong>
+<p align="center">
+  I build accessible, scalable web applications that transform complex workflows into intuitive digital experiences.
+</p>
 
-🔭 I’m currently working on my portfolio transitioning from a software engineer into a frontend developer.
+<hr>
 
-🌱 I’m learning UI/UX to be a better developer, and I am a member of the Interaction Design Foundation.
+<h2>About Me</h2>
 
-<strong>⚡ Fun facts abot me:</strong> 
-- I have lived, studied and worked in 4 countries (Russia, Germany, Israel, USA). You can guess how many languages I speak :) 
-- I worked as a teacher, translator, interpretor, lawyer and software engineer.
-- I have two Master's degrees in Law and Linguistics, and a lot of professional certificates on Web Development. A constant learner :)
-- Apart from coding and learning, I love traveling, hiking, biking, and all extreme adventures! 
+<ul>
+  <li>💻 5+ years building web applications across Healthcare, Legal Tech, and SaaS.</li>
+  <li>🏥 Developing Urgent Care applications used by <strong>5,000+ daily users</strong> across <strong>300+ clinics</strong>.</li>
+  <li>💰 Contributed to software supporting <strong>$6.23M in annual business savings</strong> through workflow automation and process improvements.</li>
+  <li>🎨 Combining <strong>Frontend Engineering</strong> and <strong>UI/UX Design</strong> to bridge user needs, business goals, and technical implementation.</li>
+  <li>🏆 Recipient of HCA Healthcare's <strong>Service Excellence Award (2025)</strong>.</li>
+</ul>
 
-<strong>Skills and technologies:</strong>
+<hr>
+
+<h2>What I'm Passionate About</h2>
+
+<ul>
+  <li>Building user-centered healthcare applications</li>
+  <li>Creating intuitive data visualizations</li>
+  <li>Designing accessible digital experiences</li>
+  <li>Leveraging AI to improve software development</li>
+</ul>
+
+<hr>
+
+<h2>Beyond Code</h2>
+
+<p>
+Having lived and worked across multiple countries and cultures, I bring adaptability,
+curiosity, strong communication skills, and diverse perspectives to collaborative teams.
+</p>
+
+<p>
+Outside of work, I enjoy traveling, hiking, biking, and spending time with my family.
+</p>
+
+<hr>
+
+<h2>Skills and technologies:</h2>
 <br>
 
 <div align="center">
@@ -48,8 +75,9 @@ My motto is <strong>"No day without learning!"</strong>
 <br>
 <br>
 
+<hr>
 
-<strong>Some of my Frontend projects I am proud of</strong>:
+<h2>Personal Projects</h2>
 
 1. <em><strong>Website of a programming school</strong></em> (HTML5, CSS3, Bootstrap4, responsive design, jQuery) - https://solgaezhova.github.io/programming_school_website_bootstrap/. 
 
@@ -72,5 +100,6 @@ You can find code here - https://github.com/solgaezhova/programming_school_websi
 
 You can find code here - https://github.com/solgaezhova/travel_agency_website.
 
+<hr>
 
-📫 Contact me or follow me: https://www.linkedin.com/in/yezhova/.
+📫 Contact me or follow me: https://www.linkedin.com/in/oezhova/.
