@@ -79,26 +79,62 @@ Outside of work, I enjoy traveling, hiking, biking, and spending time with my fa
 
 <h2>Personal Projects</h2>
 
-1. <em><strong>Website of a programming school</strong></em> (HTML5, CSS3, Bootstrap4, responsive design, jQuery) - https://solgaezhova.github.io/programming_school_website_bootstrap/. 
+## 🚀 Personal Projects
 
-- Fully responsive design: mobile-first approach
-- Fully responsive navbar: extends or collapses, depending on the screen size
-- Several animations via CSS3 features and jQuery
-- Functionality: images filtering option via filter classes and jQuery methods
-- User-controlled carousel, forms, cards, buttons, and many other user-friendly components!
+### 1. 🏥 Healthcare Clinic Dashboard
+**Tech Stack:** Next.js 16.2.9 · shadcn/ui · Tailwind CSS · TypeScript · Recharts
 
-You can find code here - https://github.com/solgaezhova/programming_school_website_bootstrap.
+A modern, accessible healthcare clinic management dashboard with real-time metrics, patient tracking, and clinic operations management.
 
-2. <em><strong>Website of a travel agency</strong></em> (HTML5, CSS3, Bootstrap4, responsive design, jQuery) - https://solgaezhova.github.io/travel_agency_website/.
+**Live Demo:** https://github.com/solgaezhova/shadcn-dashboard
 
-- Fully responsive design: mobile-first approach
-- Sticky navigation
-- Animation 
-- Filtering functionality
-- User-controlled image gallery
-- SEO
+**Key Features:**
+- 🎨 Clinic-optimized accessible color palette using oklch color space for perceptual uniformity
+- 📊 Real-time metrics dashboard: patient count, average wait time, open exam rooms, staff status
+- 📈 Interactive area charts for patient and wait time trend visualization
+- 🗂️ Advanced outline/content management table with drag-and-drop, filtering, and pagination
+- 🌙 Dark mode support for 24/7 clinic operations
+- 📱 Fully responsive design with intuitive UI for healthcare professionals
+- ✅ Built with TypeScript for type safety and modern React patterns
 
-You can find code here - https://github.com/solgaezhova/travel_agency_website.
+**Repository:** https://github.com/solgaezhova/shadcn-dashboard
+
+---
+
+### 2. 🎓 Website of a Programming School
+**Tech Stack:** HTML5 · CSS3 · Bootstrap 4 · jQuery
+
+A modern, fully responsive website for a programming school with engaging animations and interactive features.
+
+**Live Demo:** https://solgaezhova.github.io/programming_school_website_bootstrap/
+
+**Key Features:**
+- 📱 Fully responsive design: mobile-first approach
+- ☰ Fully responsive navbar: extends or collapses, depending on the screen size
+- ✨ Several animations via CSS3 features and jQuery
+- 🔍 Functionality: images filtering option via filter classes and jQuery methods
+- 🎠 User-controlled carousel, forms, cards, buttons, and many other user-friendly components!
+
+**Repository:** https://github.com/solgaezhova/programming_school_website_bootstrap
+
+---
+
+### 3. ✈️ Website of a Travel Agency
+**Tech Stack:** HTML5 · CSS3 · Bootstrap 4 · jQuery
+
+A stunning travel agency website with smooth navigation and interactive gallery features.
+
+**Live Demo:** https://solgaezhova.github.io/travel_agency_website/
+
+**Key Features:**
+- 📱 Fully responsive design: mobile-first approach
+- 📌 Sticky navigation for easy access
+- ✨ Smooth animations and transitions
+- 🔍 Filtering functionality for destination browsing
+- 🖼️ User-controlled image gallery
+- 🔎 SEO-optimized structure
+
+**Repository:** https://github.com/solgaezhova/travel_agency_website
 
 <hr>
 
