@@ -86,7 +86,7 @@ Outside of work, I enjoy traveling, hiking, biking, and spending time with my fa
 
 A modern, accessible healthcare clinic management dashboard with real-time metrics, patient tracking, and clinic operations management.
 
-**Live Demo:** https://github.com/solgaezhova/shadcn-dashboard
+**Live Demo:** https://solgaezhova.github.io/shadcn-dashboard/
 
 **Key Features:**
 - 🎨 Clinic-optimized accessible color palette using oklch color space for perceptual uniformity
@@ -97,7 +97,7 @@ A modern, accessible healthcare clinic management dashboard with real-time metri
 - 📱 Fully responsive design with intuitive UI for healthcare professionals
 - ✅ Built with TypeScript for type safety and modern React patterns
 
-**Repository:** https://github.com/solgaezhova/shadcn-dashboard
+**Repository:** https://github.com/solgaezhova/shadcn-dashboard](https://solgaezhova.github.io/shadcn-dashboard/
 
 ---
 
